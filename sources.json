@@ -1,64 +1,22 @@
 {
-	"about":"Soy Tertulio Perez y desarrollo videojuegos. Esta es información sobre mi.",
-	"aboutimg": "http://www.spa-puntacana.com/wp-content/uploads/2016/03/news_photo_04.jpg",
+	"about":"Soy García Elizalde Miguel Ángel y desarrollo videojuegos. Actualmente, soy alumno de la UNAM (Derecho) y de Coco School (Desarrollo y Programación de Videojuegos).",
+	"aboutimg": "https://imgur.com/a/LAd3Goa",
 	"portfolio": [
 		{
-			"name": "Juego Poderoso",
-			"desc": "Es un juego y es una piola",
+			"name": "Happy to Give",
+			"desc": "Es un videojuego que fue desarrollado para el Giving Tuesday del año 2022",
 			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Stray_calico_cat_near_Sagami_River-01.jpg/640px-Stray_calico_cat_near_Sagami_River-01.jpg",
 			"src": "https://www.github.com"
 		},
 		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
+			"name": "Mikasa Ackerman (Python)",
+			"desc": "Es un dibujo realizado de Mikasa Ackerman realizado en Python (utilizando la herramienta turtle)",
+			"img": "https://imgur.com/9k4ZHdI",
+			"src": "https://imgur.com/9k4ZHdI"
 		},
 		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
+			"name": "Special Ops",
+			"desc": "Es un videojuego arcade sobre un oficial de fuerzas especiales que debe abatir a terroristas",
 			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
 			"src": "https://www.github.com"
 		}
